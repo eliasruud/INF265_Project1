@@ -1,50 +1,16 @@
 # Project report
 
-The report should consist of two parts (in the same pdf):
-
-1. An explanation of your approach and design choices to help us understand how your particular
-implementation works.
-
+## Backpropagation
+An explanation of your approach and design choices to help us understand how your particular
+implementation works.:
 
 
 
+## Gradient decent
+An explanation of your approach and design choices to help us understand how your particular
+implementation works.:
 
 
-
-
-
-
-###########################
-2. Answers to the following questions:
-
-(a) Which PyTorch method(s) correspond to the tasks described in section 2?
-
-
-(b) Cite a method used to check whether the computed gradient of a function seems correct.
-Briefly explain how you would use this method to check your computed gradients in
-section 2.
-
-
-(c) Which PyTorch method(s) correspond to the tasks described in section 3, question 4.?
-
-
-(d) Briefly explain the purpose of adding momentum to the gradient descent algorithm.
-
-
-(e) Briefly explain the purpose of adding regularization to the gradient descent algorithm.
-
-
-(f) Report the different parameters used in section 3, question 8., the selected parameters in
-
-
-(g) Comment your results. In case you do not get expected results, try to give potential
-reasons that would explain why your code does not work and/or your results differ.
-
-
-
-
-
-CHECKLIST:
 
 Report
 Comments on your approach and design choices include (but are not limited to):
@@ -87,4 +53,48 @@ Clarity of the report
 - Can the reader fully understand your report without having opened your code files beforehand?
 - Can the reader find quickly the piece of information they wanted or is it necessary to read it through?
 - Are you sure all snippets of code you have included in your report (if you have put any) are relevant in a report?
+
+
+
+
+
+
+
+
+
+
+## Questions and answers
+
+(a) Which PyTorch method(s) correspond to the tasks described in section 2?
+
+
+
+(b) Cite a method used to check whether the computed gradient of a function seems correct.
+Briefly explain how you would use this method to check your computed gradients in
+section 2.
+
+
+
+(c) Which PyTorch method(s) correspond to the tasks described in section 3, question 4.?
+
+
+
+(d) Briefly explain the purpose of adding momentum to the gradient descent algorithm.
+
+
+
+
+(e) Briefly explain the purpose of adding regularization to the gradient descent algorithm.
+
+
+
+(f) Report the different parameters used in section 3, question 8., the selected parameters in
+
+
+
+(g) Comment your results. In case you do not get expected results, try to give potential
+reasons that would explain why your code does not work and/or your results differ.
+
+
+
 
